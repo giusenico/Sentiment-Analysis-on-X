@@ -43,13 +43,13 @@
 ## 📂 Project Structure
 ```plaintext
 .
-├── app/
+├── app2/
 │   ├── models/                # Pre-trained models for text, image, and audio analysis
 │   ├── utils/                 # Utility functions (data preprocessing, API integration, etc.)
 │   ├── routers/               # API endpoints
 │   └── main.py                # Entry point for the backend application
-├── frontend/
-│   └── app_text.py            # Streamlit application code
+|   └── frontend/
+│       └── app_text.py            # Streamlit application code
 ├── mock_data/                 # Mock datasets for testing
 ├── requirements.txt           # Python dependencies
 └── README.md                  # Project documentation
