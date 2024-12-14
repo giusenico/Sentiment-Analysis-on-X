@@ -1,6 +1,6 @@
 # Sentiment Analysis on X
 
-![Project Demo](images/demoscreen.png)
+![Project Demo](demoscreen.png)
 
 ## 🚀 Overview
 **Sentiment Analysis on X** is a web application that provides real-time sentiment analysis of posts on X. It integrates **text**, **image**, and **audio** analysis for a comprehensive understanding of public sentiment. Users can fetch posts based on keywords or hashtags, analyze their sentiment, and visualize the results with interactive charts.
