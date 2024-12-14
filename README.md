@@ -67,7 +67,8 @@
    - **Positive Sentiment**: 65%
    - **Negative Sentiment**: 35%
 
-![Demo Screenshot](demo_screenshot_url)
+![Demo Screenshot](demoscreen1)
+![Demo Screenshot](demoscreen2)
 
 ---
 
